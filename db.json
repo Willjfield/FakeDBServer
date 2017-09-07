@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"IsValid": true,
+	"TimeLeft": 879564.31,
+	"HasPlayed": false
 }
+
