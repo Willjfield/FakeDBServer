@@ -1,6 +1,23 @@
 {
-	"IsValid": true,
-	"TimeLeft": 879564.31,
-	"HasPlayed": false
+	"sucess":{
+		"IsValid": true,
+		"TimeLeft": 879564.31,
+		"HasPlayed": false
+	},
+	"noTime":{
+		"IsValid": true,
+		"TimeLeft": 0,
+		"HasPlayed": false
+	},
+	"hasPlayed":{
+		"IsValid": true,
+		"TimeLeft": 48273.2,
+		"HasPlayed": true
+	},
+	"invalid":{
+		"IsValid": false,
+		"TimeLeft": 0,
+		"HasPlayed": false
+	}
 }
 
